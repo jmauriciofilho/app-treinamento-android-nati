@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_geral"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Notícia" />
+
+    <item
+        android:id="@+id/navigation_eventos"
+        android:icon="@drawable/ic_event_black_24dp"
+        android:title="Eventos" />
+
+    <item
+        android:id="@+id/navigation_esportes"
+        android:icon="@drawable/ic_directions_run_black_24dp"
+        android:title="Esportes" />
+
+    <item
+        android:id="@+id/navigation_favoritos"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Favoritos"/>
+
+</menu>
